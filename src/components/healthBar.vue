@@ -1,3 +1,4 @@
+<!--Chloe Larsen u25004141-->
 <script setup>
 import { computed } from 'vue';
 import { healthStore } from '../stores/healthStore';

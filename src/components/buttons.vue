@@ -1,3 +1,4 @@
+<!--Chloe Larsen u25004141-->
 <script setup>     
   import { healthStore } from '../stores/healthStore';
   const health = healthStore();  

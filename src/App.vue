@@ -1,3 +1,4 @@
+<!--Chloe Larsen u25004141-->
 <script setup>  
   import buttons from './components/buttons.vue';  
   import display from './components/display.vue';

@@ -1,3 +1,4 @@
+// Chloe Larsen u25004141
 import { defineStore } from "pinia";
 
 export const healthStore = defineStore('health', {

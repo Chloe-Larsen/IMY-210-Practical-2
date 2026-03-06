@@ -8,7 +8,7 @@
 <template>
   <div class="container">
     <h1>Your health </h1>
-    <p>Currnet health {{ health.health }}</p>
+    <p>Current health {{ health.health }}</p>
     <p>Max health {{ health.maxHealth }}</p>  
   <healthBar />
   </div>
